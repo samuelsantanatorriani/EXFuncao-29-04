@@ -1,6 +1,6 @@
 # Samuel e Guilherme
 
-Exercícios para Praticar:
+🧠Exercícios para Praticar:
 
 1- Crie uma função chamada multiplicar que receba dois números e retorne o resultado da multiplicação.
 
